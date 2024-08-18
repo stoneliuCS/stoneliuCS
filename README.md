@@ -1,6 +1,6 @@
-## Bachelor of Computer Science and Mathematics @Northeastern University
+# Bachelor of Computer Science and Mathematics @Northeastern University
 
-# Interested in:
+## Interested in:
 - Software Engineering
 - Software Design
 - Fullstack development
