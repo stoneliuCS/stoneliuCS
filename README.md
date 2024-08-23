@@ -1,10 +1,10 @@
-# Bachelor of Computer Science and Mathematics @Northeastern University
+# Candidate for Bachelor of Computer Science and Mathematics @Northeastern University
 
 ## Interested in:
 - Software Engineering
-- Software Design
-- Fullstack development
-- formal theorem proving and reasoning of programs
+- Software Design and Architecture
+- Fullstack software development
+- Formal theorem proving and reasoning of programs
 - ML and AI
 
 reach me at liu.sto@northeastern.edu
