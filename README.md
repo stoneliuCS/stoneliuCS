@@ -7,4 +7,4 @@
 - Formal theorem proving and reasoning of programs
 - ML and AI
 
-reach me at liu.sto@northeastern.edu
+reach me at liu.sto@northeastern.edu or www.linkedin.com/in/stone-liu
